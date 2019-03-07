@@ -1,6 +1,6 @@
 HTML5 class, 2019, 1st semester.
 ***
-- [hm01/강민수](https://github.com/aaaa/hm01)
+- [hm01/강민수](https://github.com/kangminsooKMS/hm01)
 - [hm02/구병준](https://github.com/aaaa/hm02)
 - [hm03/김종민](https://github.com/aaaa/hm03)
 - [hm04/박성철](https://github.com/aaaa/hm04)
