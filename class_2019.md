@@ -1,4 +1,8 @@
 HTML5 class, 2019, 1st semester.
+
+##### : 과제 미제출 (-1)
+@ : 과제 보완 (-1 또는 보완 시 감점 없음)
+
 ***
 - [hm01/강민수](https://github.com/kangminsooKMS/hm01)
 - [hm02/구병준](https://github.com/GubyeongJun/hm02)
