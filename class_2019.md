@@ -30,7 +30,7 @@ HTML5 class, 2019, 1st semester.
 - [hm28/장세진](https://github.com/sejin573/hm28)
 - [hm29/정주은](https://github.com/aaaa/hm29) #####
 - [hm30/정호기](https://github.com/aaaa/hm30) #####
-- [hm31/황혁준](https://github.com/FL08/HM31/hm31)
+- [hm31/황혁준](https://github.com/FL08/HM31)
 - [hm32/김태은](https://github.com/appekm/hm32)
 - [hm33/이재면](https://github.com/JaeMyeon/hm33)
 ***
