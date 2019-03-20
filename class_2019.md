@@ -18,7 +18,7 @@ HTML5 class, 2019, 1st semester.
 - [hm11/안예찬](https://github.com/dksdpcks1/hm11) 
 - [hm12/양성철](https://github.com/YANGSUNGCHUL/hm12)
 - [hm13/유종인](https://github.com/yujongin/hm13)
-- [hm14/차유신](https://github.com/Usin96/hm14) 
+- [hm14/차유신](https://github.com/Usin96/hm14) ^
 - [hm15/강현이](https://github.com/Hyeonyi9081/hm15) 
 - [hm16/김경미](https://github.com/kyungmi0120/hm16)
 - [hm17/김경영](https://github.com/IjuHM17/hm17) ##
