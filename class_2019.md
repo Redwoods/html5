@@ -13,8 +13,8 @@ HTML5 class, 2019, 1st semester.
 - [hm06/김동영](https://github.com/badaral/hm06)
 - [hm07/김종건](https://github.com/kjg9704/hm07)
 - [hm08/박승훈](https://github.com/wirrinomp12/hm08) 
-- [hm09/손성빈](https://github.com/ijseongbin/hm09) #
-- [hm10/손지석](https://github.com/SonJiSeok8904/hm10)
+- [hm09/손성빈](https://github.com/ijseongbin/hm09) @
+- [hm10/손지석](https://github.com/SonJiSeok8904/hm10) #
 - [hm11/안예찬](https://github.com/dksdpcks1/hm11) 
 - [hm12/양성철](https://github.com/YANGSUNGCHUL/hm12)
 - [hm13/유종인](https://github.com/yujongin/hm13)
