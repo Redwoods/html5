@@ -25,7 +25,7 @@ HTML5 class, 2019, 1st semester.
 - [hm18/김규년](https://github.com/kgn4746/hm18)
 - [hm19/김수정](https://github.com/aaaa/hm19) ##
 - [hm20/김영록](https://github.com/septempeccatis/hm20)
-- [hm21/김예원](https://github.com/yewon1621/hm21)
+- [hm21/김예원](https://github.com/yewon1621/hm21) ^
 - [hm22/김유빈](https://github.com/kybb0709/hm22)
 - [hm23/김정인](https://github.com/ruby723/hm23)
 - [hm24/김주호](https://github.com/juhokim121/hm24)
