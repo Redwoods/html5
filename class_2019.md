@@ -6,6 +6,8 @@ HTML5 class, 2019, 1st semester.
 
 '^' : 과제 코드 일부 오류 (-0.5)
 
+'!' : 노력과 아이디어 인정!
+
 ***
 - [hm01/강민수](https://github.com/kangminsooKMS/hm01) ?
 - [hm02/구병준](https://github.com/GubyeongJun/hm02)
