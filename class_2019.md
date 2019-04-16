@@ -22,10 +22,9 @@ HTML5 class, 2019, 1st semester.
 - [hm13/유종인](https://github.com/yujongin/hm13) !
 - [hm14/차유신](https://github.com/Usin96/hm14) #
 - [hm15/강현이](https://github.com/Hyeonyi9081/hm15) !
-- [hm16/김경미](https://github.com/kyungmi0120/hm16)
-- [hm17/김경영](https://github.com/IjuHM17/hm17) ####
-- [hm18/김규년](https://github.com/kgn4746/hm18) ^
-- [hm19/김수정](https://github.com/aaaa/hm19) ###
+- [hm16/김경미](https://github.com/kyungmi0120/hm16) !
+- [hm17/김경영](https://github.com/IjuHM17/hm17) #####
+- [hm18/김규년](https://github.com/kgn4746/hm18) ^^
 - [hm20/김영록](https://github.com/septempeccatis/hm20)
 - [hm21/김예원](https://github.com/yewon1621/hm21) ^
 - [hm22/김유빈](https://github.com/kybb0709/hm22) ^
@@ -36,7 +35,6 @@ HTML5 class, 2019, 1st semester.
 - [hm27/이한글](https://github.com/hangle9449/hm27) 
 - [hm28/장세진](https://github.com/sejin573/hm28) ^
 - [hm29/정주은](https://github.com/jueun111/hm29) ##^
-- [hm30/정호기](https://github.com/aaaa/hm30) ####
 - [hm31/황혁준](https://github.com/FL08/HM31) 
 - [hm32/김태은](https://github.com/appekm/hm32) ^
 - [hm33/이재면](https://github.com/JaeMyeon/hm33) ^
