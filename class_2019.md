@@ -9,13 +9,13 @@ HTML5 class, 2019, 1st semester.
 '!' : 노력과 아이디어 인정!
 
 ***
-- [hm01/강민수](https://github.com/kangminsooKMS/hm01) ?
+- [hm01/강민수](https://github.com/kangminsooKMS/hm01) !
 - [hm02/구병준](https://github.com/GubyeongJun/hm02)
 - [hm03/김종민](https://github.com/ghs1472/hm03) !
 - [hm04/박성철](https://github.com/parkseongcheol/hm04)
 - [hm05/이창호](https://github.com/lchho96/hm05) ^
 - [hm06/김동영](https://github.com/badaral/hm06) ##
-- [hm07/김종건](https://github.com/kjg9704/hm07) ?
+- [hm07/김종건](https://github.com/kjg9704/hm07) !
 - [hm08/박승훈](https://github.com/wirrinomp12/hm08) # !
 - [hm09/손성빈](https://github.com/ijseongbin/hm09) 
 - [hm10/손지석](https://github.com/SonJiSeok8904/hm10) ####
