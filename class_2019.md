@@ -14,7 +14,7 @@ HTML5 class, 2019, 1st semester.
 - [hm03/김종민](https://github.com/ghs1472/hm03) !!!||
 - [hm04/박성철](https://github.com/parkseongcheol/hm04) ||
 - [hm05/이창호](https://github.com/lchho96/hm05) ^||
-- [hm06/김동영](https://github.com/badaral/hm06) ###|| #
+- [hm06/김동영](https://github.com/badaral/hm06) ###|| ##
 - [hm07/김종건](https://github.com/kjg9704/hm07) !||
 - [hm08/박승훈](https://github.com/wirrinomp12/hm08) # ! #||
 - [hm09/손성빈](https://github.com/ijseongbin/hm09) ||
@@ -25,7 +25,7 @@ HTML5 class, 2019, 1st semester.
 - [hm14/차유신](https://github.com/Usin96/hm14) #||
 - [hm15/강현이](https://github.com/Hyeonyi9081/hm15) ^|| #
 - [hm16/김경미](https://github.com/kyungmi0120/hm16) !|| 
-- [hm17/김경영](https://github.com/IjuHM17/hm17) ######||
+- [hm17/김경영](https://github.com/IjuHM17/hm17) ######|| #
 - [hm18/김규년](https://github.com/kgn4746/hm18) ^^!||
 - [hm20/김영록](https://github.com/septempeccatis/hm20) !#|| ^
 - [hm21/김예원](https://github.com/yewon1621/hm21) ^||
