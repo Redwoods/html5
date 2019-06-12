@@ -31,7 +31,7 @@ HTML5 class, 2019, 1st semester.
 - [hm21/김예원](https://github.com/yewon1621/hm21) ^ || ^
 - [hm22/김유빈](https://github.com/kybb0709/hm22) ^! ||
 - [hm23/김정인](https://github.com/ruby723/hm23) ^^!! || !
-- [hm24/김주호](https://github.com/juhokim121/hm24) ### || #^##
+- [hm24/김주호](https://github.com/juhokim121/hm24) ### || #^###
 - [hm25/송다은](https://github.com/daeun99/hm25) ^ ! # || ^
 - [hm26/오주현](https://github.com/wngus0317/hm26) !! ||
 - [hm27/이한글](https://github.com/hangle9449/hm27) ^ || 
