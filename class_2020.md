@@ -20,7 +20,7 @@ HTML5 class, 2020, 1st semester.
 - [hm09/ 여수민](https://github.com)
 - [hm10/ 이상혁](https://github.com)
 - [hm11/ 정영훈](https://github.com)
-- [hm12/ 차혁준]https://github.com)
+- [hm12/ 차혁준](https://github.com)
 - [hm13/ 최재형](https://github.com)
 - [hm14/ 하태헌](https://github.com)
 - [hm15/ 강권모](https://github.com)
