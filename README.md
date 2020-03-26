@@ -24,11 +24,11 @@
 - [hm14/ 강권모](https://github.com/20161490/hm14) *
 - [hm15/ 김민욱](https://github.com/poviea/hm15) *
 - [hm16/ 김민준](https://github.com/kaf829/hm16) *
-- [hm17/ 김현식](https://github.com/Khs98/HM17)
+- [hm17/ 김현식](https://github.com/Khs98/HM17) *
 - [hm18/ 신종원](https://github.com)
 - [hm19/ 장성운](https://github.com)
 - [hm20/ 조재윤](https://github.com/black98520/hm20) *
-- [hm21/ 경명아](https://github.com)
+- [hm21/ 경명아](https://github.com/html21/hm21) *
 
 ***
 
