@@ -12,7 +12,7 @@
 - [hm02/ 강태민](https://github.com/Gangtaemin/hm02) *
 - [hm03/ 김세은](https://github.com/thdnwn/hm03) *
 - [hm04/ 김준호](https://github.com)
-- [hm05/ 남승현](https://github.com)
+- [hm05/ 남승현](https://github.com/nam0914/HM05) *
 - [hm06/ 박종혁](https://github.com/Park-Jong-Hyeok/hm06) *
 - [hm07/ 심준혁](https://github.com/sjh1583/HM07) *
 - [hm08/ 여수민](https://github.com/yeo5578/hm08) *
