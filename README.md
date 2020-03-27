@@ -9,7 +9,7 @@
 
 ***
 - [hm01/ 강서현](https://github.com/tjgus226/HM01) *
-- [hm02/ 강태민](https://github.com)
+- [hm02/ 강태민](https://github.com/Gangtaemin/hm02) *
 - [hm03/ 김세은](https://github.com/thdnwn/hm03) *
 - [hm04/ 김준호](https://github.com)
 - [hm05/ 남승현](https://github.com)
