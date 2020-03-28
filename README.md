@@ -26,7 +26,7 @@
 - [hm16/ 김민준](https://github.com/kaf829/hm16) *
 - [hm17/ 김현식](https://github.com/Khs98/HM17) *
 - [hm18/ 신종원](https://github.com)
-- [hm19/ 장성운](https://github.com)
+- [hm19/ 장성운](https://github.com/SungUnJang/hm19) *
 - [hm20/ 조재윤](https://github.com/black98520/hm20) *
 - [hm21/ 경명아](https://github.com/html21/hm21) *
 
