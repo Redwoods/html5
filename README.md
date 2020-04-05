@@ -8,7 +8,7 @@
 - '!' : 노력과 아이디어 인정!
 
 ***
-- [hm01/ 강서현](https://github.com/tjgus226/HM01) *
+- [hm01/ 강서현](https://github.com/tjgus226/HM01) * [proj01](http://chaos.inje.ac.kr:3030/hm/project/hm01_rpt01.html)
 - [hm02/ 강태민](https://github.com/Gangtaemin/hm02) *
 - [hm03/ 김세은](https://github.com/thdnwn/hm03) *
 - [hm04/ 김준호](https://github.com)
