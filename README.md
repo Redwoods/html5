@@ -26,8 +26,8 @@
 - [hm16/ 김민준](https://github.com/kaf829/hm16) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm16/hm16_rpt01.html)
 - [hm17/ 김현식](https://github.com/Khs98/HM17) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm17/hm17_rpt01.html) !!
 - [hm18/ 신종원](https://github.com/jonogo/HM18) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm18/hm18_rpt01.html) @
-- [hm19/ 장성운](https://github.com/SungUnJang/hm19) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm19/hm19_rpt01.html)
-- [hm20/ 조재윤](https://github.com/black98520/hm20) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm20/hm20_rpt01.html)
+- [hm19/ 장성운](https://github.com/SungUnJang/hm19) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm19/hm19_rpt01.html) !!
+- [hm20/ 조재윤](https://github.com/black98520/hm20) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm20/hm20_rpt01.html) !!
 - [hm21/ 경명아](https://github.com/html21/hm21) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm21/hm21_rpt01.html)
 
 ***
