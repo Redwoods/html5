@@ -8,24 +8,24 @@
 - '!' : 노력과 아이디어 인정!
 
 ***
-- [hm01/ 강서현](https://github.com/tjgus226/HM01) * [proj01](http://chaos.inje.ac.kr:3030/hm/project/hm01_rpt01.html)
-- [hm02/ 강태민](https://github.com/Gangtaemin/hm02) *
-- [hm03/ 김세은](https://github.com/thdnwn/hm03) *
+- [hm01/ 강서현](https://github.com/tjgus226/HM01) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm01/hm01_rpt01.html)
+- [hm02/ 강태민](https://github.com/Gangtaemin/hm02) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm02/hm02_rpt01.html)
+- [hm03/ 김세은](https://github.com/thdnwn/hm03) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm03/hm03_rpt01.html)
 - [hm04/ 김준호](https://github.com)
-- [hm05/ 남승현](https://github.com/nam0914/HM05) *
-- [hm06/ 박종혁](https://github.com/Park-Jong-Hyeok/hm06) *
-- [hm07/ 심준혁](https://github.com/sjh1583/HM07) *
-- [hm08/ 여수민](https://github.com/yeo5578/hm08) *
+- [hm05/ 남승현](https://github.com/nam0914/HM05) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm05/hm05_rpt01.html)
+- [hm06/ 박종혁](https://github.com/Park-Jong-Hyeok/hm06) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm06/hm06_rpt01.html)
+- [hm07/ 심준혁](https://github.com/sjh1583/HM07) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm07/hm07_rpt01.html)
+- [hm08/ 여수민](https://github.com/yeo5578/hm08) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm08/hm08_rpt01.html)
 - [hm09/ 이상혁](https://github.com)
-- [hm10/ 정영훈](https://github.com/jyhoon519/HM10) *
-- [hm11/ 차혁준](https://github.com/chahyeokjun/HM11) * ^
+- [hm10/ 정영훈](https://github.com/jyhoon519/HM10) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm10/hm10_rpt01.html)
+- [hm11/ 차혁준](https://github.com/chahyeokjun/HM11) * ^ [proj](http://chaos.inje.ac.kr:3030/hm/project/hm11/hm11_rpt01.html)
 - [hm12/ 최재형](https://github.com/june6297/hm12) *
 - [hm13/ 하태헌](https://github.com/rnfrnfdl34/hm13) *
 - [hm14/ 강권모](https://github.com/20161490/hm14) *
 - [hm15/ 김민욱](https://github.com/poviea/hm15) *
 - [hm16/ 김민준](https://github.com/kaf829/hm16) *
 - [hm17/ 김현식](https://github.com/Khs98/HM17) *
-- [hm18/ 신종원](https://github.com/jonogo/HM18) * ^
+- [hm18/ 신종원](https://github.com/jonogo/HM18) * [proj01](http://chaos.inje.ac.kr:3030/hm/project/hm18/hm18_rpt01.html)
 - [hm19/ 장성운](https://github.com/SungUnJang/hm19) *
 - [hm20/ 조재윤](https://github.com/black98520/hm20) *
 - [hm21/ 경명아](https://github.com/html21/hm21) *
