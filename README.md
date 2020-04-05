@@ -18,14 +18,14 @@
 - [hm08/ 여수민](https://github.com/yeo5578/hm08) *
 - [hm09/ 이상혁](https://github.com)
 - [hm10/ 정영훈](https://github.com/jyhoon519/HM10) *
-- [hm11/ 차혁준](https://github.com/chahyeokjun/HM11) *
+- [hm11/ 차혁준](https://github.com/chahyeokjun/HM11) * ^
 - [hm12/ 최재형](https://github.com/june6297/hm12) *
 - [hm13/ 하태헌](https://github.com/rnfrnfdl34/hm13) *
 - [hm14/ 강권모](https://github.com/20161490/hm14) *
 - [hm15/ 김민욱](https://github.com/poviea/hm15) *
 - [hm16/ 김민준](https://github.com/kaf829/hm16) *
 - [hm17/ 김현식](https://github.com/Khs98/HM17) *
-- [hm18/ 신종원](https://github.com/jonogo/HM18) *
+- [hm18/ 신종원](https://github.com/jonogo/HM18) * ^
 - [hm19/ 장성운](https://github.com/SungUnJang/hm19) *
 - [hm20/ 조재윤](https://github.com/black98520/hm20) *
 - [hm21/ 경명아](https://github.com/html21/hm21) *
