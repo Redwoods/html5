@@ -20,12 +20,12 @@
 - [hm10/ 정영훈](https://github.com/jyhoon519/HM10) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm10/hm10_rpt01.html)
 - [hm11/ 차혁준](https://github.com/chahyeokjun/HM11) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm11/hm11_rpt01.html) @
 - [hm12/ 최재형](https://github.com/june6297/hm12) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm12/hm12_rpt01.html)
-- [hm13/ 하태헌](https://github.com/rnfrnfdl34/hm13) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm13/hm13_rpt01.html)
-- [hm14/ 강권모](https://github.com/20161490/hm14) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm14/hm14_rpt01.html)
-- [hm15/ 김민욱](https://github.com/poviea/hm15) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm15/hm15_rpt01.html)
+- [hm13/ 하태헌](https://github.com/rnfrnfdl34/hm13) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm13/hm13_rpt01.html) !
+- [hm14/ 강권모](https://github.com/20161490/hm14) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm14/hm14_rpt01.html) !!
+- [hm15/ 김민욱](https://github.com/poviea/hm15) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm15/hm15_rpt01.html) !
 - [hm16/ 김민준](https://github.com/kaf829/hm16) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm16/hm16_rpt01.html)
-- [hm17/ 김현식](https://github.com/Khs98/HM17) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm17/hm17_rpt01.html)
-- [hm18/ 신종원](https://github.com/jonogo/HM18) * [proj01](http://chaos.inje.ac.kr:3030/hm/project/hm18/hm18_rpt01.html)
+- [hm17/ 김현식](https://github.com/Khs98/HM17) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm17/hm17_rpt01.html) !!
+- [hm18/ 신종원](https://github.com/jonogo/HM18) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm18/hm18_rpt01.html) @
 - [hm19/ 장성운](https://github.com/SungUnJang/hm19) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm19/hm19_rpt01.html)
 - [hm20/ 조재윤](https://github.com/black98520/hm20) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm20/hm20_rpt01.html)
 - [hm21/ 경명아](https://github.com/html21/hm21) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm21/hm21_rpt01.html)
