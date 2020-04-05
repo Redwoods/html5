@@ -18,7 +18,7 @@
 - [hm08/ 여수민](https://github.com/yeo5578/hm08) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm08/hm08_rpt01.html)
 - [hm09/ 이상혁](https://github.com)
 - [hm10/ 정영훈](https://github.com/jyhoon519/HM10) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm10/hm10_rpt01.html)
-- [hm11/ 차혁준](https://github.com/chahyeokjun/HM11) * ^ [proj](http://chaos.inje.ac.kr:3030/hm/project/hm11/hm11_rpt01.html)
+- [hm11/ 차혁준](https://github.com/chahyeokjun/HM11) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm11/hm11_rpt01.html) @
 - [hm12/ 최재형](https://github.com/june6297/hm12) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm12/hm12_rpt01.html)
 - [hm13/ 하태헌](https://github.com/rnfrnfdl34/hm13) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm13/hm13_rpt01.html)
 - [hm14/ 강권모](https://github.com/20161490/hm14) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm14/hm14_rpt01.html)
