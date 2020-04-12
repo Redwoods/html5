@@ -31,4 +31,5 @@
 - [hm21/ 경명아](https://github.com/html21/hm21) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm21/hm21_rpt01.html)
 
 ***
+![VSCode 확장 설치 안내](https://github.com/Redwoods/html5/blob/master/vscode_extensions.png)
 
