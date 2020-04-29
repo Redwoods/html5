@@ -13,9 +13,9 @@
 - [hm03/ 김세은](https://github.com/thdnwn/hm03) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm03/hm03_rpt01.html) ! c!
 - [hm04/ 김준호](https://github.com) #
 - [hm05/ 남승현](https://github.com/nam0914/HM05) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm05/hm05_rpt01.html)
-- [hm06/ 박종혁](https://github.com/Park-Jong-Hyeok/hm06) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm06/hm06_rpt01.html)
+- [hm06/ 박종혁](https://github.com/Park-Jong-Hyeok/hm06) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm06/hm06_rpt01.html) c!!
 - [hm07/ 심준혁](https://github.com/sjh1583/HM07) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm07/hm07_rpt01.html) !
-- [hm08/ 여수민](https://github.com/yeo5578/hm08) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm08/hm08_rpt01.html)
+- [hm08/ 여수민](https://github.com/yeo5578/hm08) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm08/hm08_rpt01.html) c!
 - [hm09/ 이상혁](https://github.com/bsang50005/hm09) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm09/hm09_rpt01.html)
 - [hm10/ 정영훈](https://github.com/jyhoon519/HM10) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm10/hm10_rpt01.html)
 - [hm11/ 차혁준](https://github.com/chahyeokjun/HM11) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm11/hm11_rpt01.html) @
