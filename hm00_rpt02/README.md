@@ -2,4 +2,4 @@
 ## 나의 홈피에 추가된 내용과 방법들
 ### 추가된 html 파일
 - mydiary.html
-- hshgsgs.html
+- hm00_rpt02.html
