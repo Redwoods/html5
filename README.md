@@ -28,7 +28,7 @@
 - [hm18/ 신종원](https://github.com/jonogo/HM18) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm18/hm18_rpt01.html) @ c! [proj2](http://chaos.inje.ac.kr:3030/hm/project2/hm18/hm18_rpt02.html) ! fc!!
 - [hm19/ 장성운](https://github.com/SungUnJang/hm19) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm19/hm19_rpt01.html) !! c!! [proj2](http://chaos.inje.ac.kr:3030/hm/project2/hm19/hm19_rpt02.html) !! fc!!
 - [hm20/ 조재윤](https://github.com/black98520/hm20) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm20/hm20_rpt01.html) !! c!! [proj2](http://chaos.inje.ac.kr:3030/hm/project2/hm20/hm20_rpt02.html) !!! fc!!
-- [hm21/ 경명아](https://github.com/html21/hm21) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm21/hm21_rpt01.html) c! [proj2](http://chaos.inje.ac.kr:3030/hm/project2/hm21/hm21_rpt02.html) !^ fc#
+- [hm21/ 경명아](https://github.com/html21/hm21) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm21/hm21_rpt01.html) c! [proj2](http://chaos.inje.ac.kr:3030/hm/project2/hm21/hm21_rpt02.html) !^ fc
 
 ***
 ## VSCode 확장 설치 안내
