@@ -11,7 +11,7 @@
 - [hm01/ 강서현](https://github.com/tjgus226/HM01) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm01/hm01_rpt01.html) c! [proj2](http://chaos.inje.ac.kr:3030/hm/project2/hm01/hm01_rpt02.html) fc! obj bom evt 
 - [hm02/ 강태민](https://github.com/Gangtaemin/hm02) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm02/hm02_rpt01.html) c!! [proj2](http://chaos.inje.ac.kr:3030/hm/project2/hm02/hm02_rpt02.html) !! fc!! obj bom evt# 
 - [hm03/ 김세은](https://github.com/thdnwn/hm03) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm03/hm03_rpt01.html) ! c! [proj2](http://chaos.inje.ac.kr:3030/hm/project2/hm03/hm03_rpt02.html) ! fc!! obj bom evt 
-- [hm04/ 김준호](https://github.com) # # # # # # 
+- [hm04/ 김준호](https://github.com) # # # # # # #
 - [hm05/ 남승현](https://github.com/nam0914/HM05) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm05/hm05_rpt01.html) c!^ [proj2](http://chaos.inje.ac.kr:3030/hm/project2/hm05/hm05_rpt02.html) fc! obj bom evt 
 - [hm06/ 박종혁](https://github.com/Park-Jong-Hyeok/hm06) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm06/hm06_rpt01.html) c!! [proj2](http://chaos.inje.ac.kr:3030/hm/project2/hm06/hm06_rpt02.html) fc!! obj bom evt 
 - [hm07/ 심준혁](https://github.com/sjh1583/HM07) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm07/hm07_rpt01.html) ! c! [proj2](http://chaos.inje.ac.kr:3030/hm/project2/hm07/hm07_rpt02.html) fc! obj bom evt 
@@ -24,7 +24,7 @@
 - [hm14/ 강권모](https://github.com/20161490/hm14) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm14/hm14_rpt01.html) !! c!! [proj2](http://chaos.inje.ac.kr:3030/hm/project2/hm14/hm14_rpt02.html) ! fc obj bom evt 
 - [hm15/ 김민욱](https://github.com/poviea/hm15) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm15/hm15_rpt01.html) ! c!! [proj2](http://chaos.inje.ac.kr:3030/hm/project2/hm15/hm15_rpt02.html) ^ fc!! obj bom evt 
 - [hm16/ 김민준](https://github.com/kaf829/hm16) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm16/hm16_rpt01.html) c! [proj2](http://chaos.inje.ac.kr:3030/hm/project2/hm16/hm16_rpt02.html) # fc! obj bom evt 
-- [hm17/ 김현식](https://github.com/Khs98/HM17) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm17/hm17_rpt01.html) !! # [proj2](http://chaos.inje.ac.kr:3030/hm/project2/hm17/hm17_rpt02.html) # fc# obj# bom# evt#  
+- [hm17/ 김현식](https://github.com/Khs98/HM17) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm17/hm17_rpt01.html) !! # [proj2](http://chaos.inje.ac.kr:3030/hm/project2/hm17/hm17_rpt02.html) # fc# obj# bom# evt#  [proj3](http://chaos.inje.ac.kr:3030/hm/project3/hm17/hm17_rpt03.html) #
 - [hm18/ 신종원](https://github.com/jonogo/HM18) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm18/hm18_rpt01.html) @ c! [proj2](http://chaos.inje.ac.kr:3030/hm/project2/hm18/hm18_rpt02.html) ! fc!! obj bom evt 
 - [hm19/ 장성운](https://github.com/SungUnJang/hm19) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm19/hm19_rpt01.html) !! c!! [proj2](http://chaos.inje.ac.kr:3030/hm/project2/hm19/hm19_rpt02.html) !! fc!! obj bom evt 
 - [hm20/ 조재윤](https://github.com/black98520/hm20) * [proj](http://chaos.inje.ac.kr:3030/hm/project/hm20/hm20_rpt01.html) !! c!! [proj2](http://chaos.inje.ac.kr:3030/hm/project2/hm20/hm20_rpt02.html) !!! fc!! obj bom evt 
