@@ -5,17 +5,7 @@
 - '@' : 노력과 아이디어 인정! (+$\alpha$)
 - '*' : 과제 제출 
 - '&' : 과제 미제출 
-
-
-
 ***
-
-
-***
-## VSCode 확장 설치 안내
-
-![VSCode 확장 설치 안내](https://github.com/Redwoods/html5/blob/master/vscode_extensions.png)
-
 - [HM01	김준수]()
 - [HM02	김현서]()
 - [HM03	박영훈]()
@@ -38,3 +28,8 @@
 - [HM20	장태호]()
 - [HM21	정지원]()
 - [HM22	진우태]()
+***
+## VSCode 확장 설치 안내
+
+![VSCode 확장 설치 안내](https://github.com/Redwoods/html5/blob/master/vscode_extensions.png)
+***
