@@ -14,7 +14,7 @@
 - [HM06	손윤우](https://github.com/yunuu/hm06) * *
 - [HM07	신승철](https://github.com/kdkh96/hm07x) * *
 - [HM08	오세윤](https://github.com/chilledlife/HM08) * *
-- [HM09	오세현](https://github.com/chilledlife/HM09) * &?
+- [HM09	오세현](https://github.com/Ohsaehyeon/HM09) * &
 - [HM10	우승철](https://github.com/woo-seung-cheol/HM10) * &
 - [HM11	윤현석](https://github.com/yhs11116/HM11) * *
 - [HM12	이예주](https://github.com/JJangyeJJangju/hm12) * *
