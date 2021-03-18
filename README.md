@@ -14,20 +14,20 @@
 - [HM06	손윤우](https://github.com/yunuu/hm06) * *
 - [HM07	신승철](https://github.com/kdkh96/hm07x) * *
 - [HM08	오세윤](https://github.com/chilledlife/HM08) * *
-- [HM09	오세현](https://github.com/chilledlife/HM09) *
-- [HM10	우승철](https://github.com/woo-seung-cheol/HM10) *
+- [HM09	오세현](https://github.com/chilledlife/HM09) * &?
+- [HM10	우승철](https://github.com/woo-seung-cheol/HM10) * &
 - [HM11	윤현석](https://github.com/yhs11116/HM11) * *
-- [HM12	이예주](https://github.com/JJangyeJJangju/hm12) *
-- [HM13	최민석](https://github.com/cmsinje/-hm13) *
-- [HM14	강지환](https://github.com/qkqh9635/hm14) *
-- [HM15	성인제](https://github.com/nsa32300/hm15) *
-- [HM16	고태승](https://github.com/xotmddlsp2/HM16-) *
-- [HM17	김성환](https://github.com/Seong-Hwan99/HM17) *
-- [HM18	이정호](https://github.com/LOLMGs/HM18) *
-- [HM19	장원일](https://github.com/jangeleven/HM19) *
-- [HM20	장태호](https://github.com/HINEET/hm20) *
-- [HM21	정지원](https://github.com/lalalalalra/hm21) *
-- [HM22	진우태](https://github.com/Wjkdj/HM22) *
+- [HM12	이예주](https://github.com/JJangyeJJangju/hm12) * *
+- [HM13	최민석](https://github.com/cmsinje/-hm13) * *
+- [HM14	강지환](https://github.com/qkqh9635/hm14) * *
+- [HM15	성인제](https://github.com/nsa32300/hm15) * *
+- [HM16	고태승](https://github.com/xotmddlsp2/HM16-) * *
+- [HM17	김성환](https://github.com/Seong-Hwan99/HM17) * *
+- [HM18	이정호](https://github.com/LOLMGs/HM18) * *
+- [HM19	장원일](https://github.com/jangeleven/HM19) * *
+- [HM20	장태호](https://github.com/HINEET/hm20) * *
+- [HM21	정지원](https://github.com/lalalalalra/hm21) * *
+- [HM22	진우태](https://github.com/Wjkdj/HM22) * *
 ***
 ## VSCode 확장 설치 안내
 
