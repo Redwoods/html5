@@ -26,7 +26,7 @@
 - [HM18	이정호](https://github.com/LOLMGs/HM18) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm18/hm18_rpt01.html)@@
 - [HM19	장원일](https://github.com/jangeleven/HM19) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm19/hm19_rpt01.html)@
 - [HM20	장태호](https://github.com/HINEET/hm20) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm20/hm20_rpt01.html)@
-- [HM21	정지원](https://github.com/lalalalalra/hm21) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm21/hm21_rpt01.html)&
+- [HM21	정지원](https://github.com/lalalalalra/hm21) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm21/hm21_rpt01.html)*
 - [HM22	진우태](https://github.com/Wjkdj/HM22) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm22/hm22_rpt01.html)@
 ***
 ## VSCode 확장 설치 안내
