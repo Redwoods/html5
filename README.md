@@ -14,7 +14,7 @@
 - [HM06	손윤우](https://github.com/yunuu/hm06) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm06/hm06_rpt01.html)@
 - [HM07	신승철](https://github.com/kdkh96/hm07x) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm07/hm07_rpt01.html)*
 - [HM08	오세윤](https://github.com/chilledlife/HM08) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm08/hm08_rpt01.html)@
-- [HM09	오세현](https://github.com/Ohsaehyeon/HM09) * & [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm09/hm09_rpt01.html)&
+- [HM09	오세현](https://github.com/Ohsaehyeon/HM09) * & [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm09/hm09_rpt01.html)*
 - [HM10	우승철](https://github.com/woo-seung-cheol/HM10) * & [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm10/hm10_rpt01.html)&
 - [HM11	윤현석](https://github.com/yhs11116/HM11) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm11/hm11_rpt01.html)*
 - [HM12	이예주](https://github.com/JJangyeJJangju/hm12) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm12/hm12_rpt01.html)*?
