@@ -7,10 +7,10 @@
 - '&' : 과제 미제출 
 ***
 - [HM01	김준수](https://github.com/96wnstn/HM01) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm01/hm01_rpt01.html)*
-- [HM02	김현서](https://github.com/HyunSeo0928/hm02) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm02/hm02_rpt01.html)&
+- [HM02	김현서](https://github.com/HyunSeo0928/hm02) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm02/hm02_rpt01.html)*
 - [HM03	박영훈](https://github.com/hunypark/hm03) * & [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm03/hm03_rpt03.html)&
 - [HM04	박윤호](https://github.com/yoonho0624/hm04) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm04/hm04_rpt01.html)&
-- [HM05	성은지](https://github.com/eun-jiii/HM05) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm05/hm05_rpt01.html)&
+- [HM05	성은지](https://github.com/eun-jiii/HM05) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm05/hm05_rpt01.html)*
 - [HM06	손윤우](https://github.com/yunuu/hm06) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm06/hm06_rpt01.html)@
 - [HM07	신승철](https://github.com/kdkh96/hm07x) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm07/hm07_rpt01.html)*
 - [HM08	오세윤](https://github.com/chilledlife/HM08) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm08/hm08_rpt01.html)@
