@@ -29,7 +29,7 @@
 - [HM21	정지원](https://github.com/lalalalalra/hm21) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm21/hm21_rpt01.html)* * * [prj2](http://chaos.inje.ac.kr:3030/hm/project/hm21/hm21_rpt02.html)
 - [HM22	진우태](https://github.com/Wjkdj/HM22) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm22/hm22_rpt01.html)@ * * [prj2](http://chaos.inje.ac.kr:3030/hm/project/hm22/hm22_rpt02.html)
 ***
-## VSCode 확장 설치 안내
+## VSCode 확장 설치 안내 
 
 ![VSCode 확장 설치 안내](https://github.com/Redwoods/html5/blob/master/vscode_extensions.png)
 ***
