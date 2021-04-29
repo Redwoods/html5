@@ -19,7 +19,7 @@
 - [HM11	윤현석](https://github.com/yhs11116/HM11) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm11/hm11_rpt01.html)* * * [prj2](http://chaos.inje.ac.kr:3030/hm/project2/hm11/hm11_rpt02.html)&
 - [HM12	이예주](https://github.com/JJangyeJJangju/hm12) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm12/hm12_rpt01.html)*? * * [prj2](http://chaos.inje.ac.kr:3030/hm/project2/hm12/hm12_rpt02.html)*
 - [HM13	최민석](https://github.com/cmsinje/-hm13) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm13/hm13_rpt01.html)*? * * [prj2](http://chaos.inje.ac.kr:3030/hm/project2/hm13/hm13_rpt02.html)&
-- [HM14	강지환](https://github.com/qkqh9635/hm14) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm14/hm14_rpt01.html)*? * * [prj2](http://chaos.inje.ac.kr:3030/hm/project2/hm14/hm14_rpt02.html)*
+- [HM14	강지환](https://github.com/qkqh9635/hm14) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm14/hm14_rpt01.html)*? * * [prj2](http://chaos.inje.ac.kr:3030/hm/project2/hm14/hm14_rpt02.html) *
 - [HM15	성인제](https://github.com/nsa32300/hm15) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm15/hm15_rpt01.html)@ * * [prj2](http://chaos.inje.ac.kr:3030/hm/project2/hm15/hm15_rpt02.html)@
 - [HM16	고태승](https://github.com/xotmddlsp2/HM16-) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm16/hm16_rpt01.html)@ * * [prj2](http://chaos.inje.ac.kr:3030/hm/project2/hm16/hm16_rpt02.html)@
 - [HM17	김성환](https://github.com/Seong-Hwan99/HM17) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm17/hm17_rpt01.html)*? * * [prj2](http://chaos.inje.ac.kr:3030/hm/project2/hm17/hm17_rpt02.html)@
