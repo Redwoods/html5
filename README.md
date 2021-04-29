@@ -31,5 +31,5 @@
 ***
 ## VSCode 확장 설치 안내 
 
-![VSCode 확장 설치 안내](https://github.com/Redwoods/html5/blob/master/vscode_extensions.png) 
+![VSCode 확장 설치 안내](https://github.com/Redwoods/html5/blob/master/vscode_extensions.png)
 ***
