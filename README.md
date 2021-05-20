@@ -12,7 +12,7 @@
 - [HM04	박윤호](https://github.com/yoonho0624/hm04) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm04/hm04_rpt01.html)& * * [prj2](http://chaos.inje.ac.kr:3030/hm/project2/hm04/hm04_rpt02.html)@@/2 * * *
 - [HM05	성은지](https://github.com/eun-jiii/HM05) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm05/hm05_rpt01.html)* * * [prj2](http://chaos.inje.ac.kr:3030/hm/project2/hm05/hm05_rpt02.html)@ * & *
 - [HM06	손윤우](https://github.com/yunuu/hm06) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm06/hm06_rpt01.html)@ * * [prj2](http://chaos.inje.ac.kr:3030/hm/project2/hm06/hm06_rpt02.html)@ @ * *
-- [HM07	신승철](https://github.com/kdkh96/hm07x) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm07/hm07_rpt01.html)* * * [prj2](http://chaos.inje.ac.kr:3030/hm/project2/hm07/index.html)@@/2 @ * *
+- [HM07	신승철](https://github.com/kdkh96/hm07x) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm07/hm07_rpt01.html)* * * [prj2](http://chaos.inje.ac.kr:3030/hm/project2/hm07/index.html)@@/2 @ * @
 - [HM08	오세윤](https://github.com/chilledlife/HM08) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm08/hm08_rpt01.html)@ * * [prj2](http://chaos.inje.ac.kr:3030/hm/project2/hm08/hm08_rpt02.html)@ @ * * 
 - [HM09	오세현](https://github.com/Ohsaehyeon/HM09) * & [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm09/hm09_rpt01.html)* & * [prj2](http://chaos.inje.ac.kr:3030/hm/project2/hm09/hm09_rpt02.html)& * * *
 - [HM10	우승철](https://github.com/woo-seung-cheol/HM10) * & [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm10/hm10_rpt01.html)& & & [prj2](http://chaos.inje.ac.kr:3030/hm/project2/hm10/hm10_rpt02.html)* @ * *
