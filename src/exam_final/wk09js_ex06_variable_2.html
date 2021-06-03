@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<!-- 이 부분은 주석문입니다. 웹 브라우저는 주석을 화면에 출력하지 않습니다. -->
+<html>
+  <head>
+    <!-- 문서제목, 자바스크립트 코드, CSS 스타일 정의, 메타데이터정의 -->
+    <meta charset="utf-8" />
+    <title>hmnn : Javascript</title>
+    <style></style>
+
+    <script></script>
+  </head>
+
+  <body>
+    <!-- 문서의 본문 텍스트, 이미지, 테이블, 자바스크립트 코드, 동영상 등 -->
+    <h3>지역변수와 전역변수 II</h3>
+    <hr />
+    <script>
+      var x = 100; // 전역변수
+
+      function f() {
+        // 함수 f() 선언
+        //var x = 1;
+        // 지역변수 x
+        //x = 1;   // 그러면 이ㅏ 경우는?
+        let y = 1; // 이건 뭐지?
+
+        document.write("블록변수 y=" + y);
+        document.write("<br>");
+        document.write("전역변수 x=" + this.x);
+
+        // if(true){
+        // 	let z = 7;
+        // }
+        // document.write("<h3>블록변수 z = " + y + "</h3>");
+      }
+
+      f(); // 함수 f() 호출
+
+      document.write("<hr>");
+      document.write("<h3>블록변수 y=");
+      document.write("<h3>블록변수 y=" + y + "</h3>"); // Debugging
+    </script>
+
+    <hr />
+    <a
+      href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/Values,_variables,_and_literals#%EB%B3%80%EC%88%98_%EC%84%A0%EC%96%B8"
+      >JS guide</a
+    >
+    <br />
+    <a
+      href="https://noooop.tistory.com/entry/VS-code%EC%97%90%EC%84%9C-Debugger-for-Chrome-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-2"
+      >VS code에서 Debugger for Chrome 사용 출처:
+      https://noooop.tistory.com/entry/VS-code에서-Debugger-for-Chrome-사용하기-2
+      [잡동사니]</a
+    >
+  </body>
+</html>

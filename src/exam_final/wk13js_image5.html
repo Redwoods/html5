@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<!-- 이 부분은 주석문입니다. 웹 브라우저는 주석을 화면에 출력하지 않습니다. -->
+<html>
+  <head>
+    <!-- 문서제목, 자바스크립트 코드, CSS 스타일 정의, 메타데이터정의 -->
+    <meta charset="utf-8" />
+    <title>hm18 : Javascript Event</title>
+    <style>
+        html{
+            background-color: aliceblue;
+        }
+        img{
+            width: 400px;
+            height: 350px;
+        }
+        .LJHHM18 {
+			color: royalblue;
+			text-shadow: 2px 2px 2px white, 0 0 25px black, 0 0 5px white;
+		}
+    </style>
+    <script>
+      // 미리 로딩해둘 이미지 이름 배열
+      var files = [
+        "media/원숭이.png",
+        "media/앵무새.png",
+        "media/오리.png",
+        "media/거북이.png",
+        "media/강아지.png"
+        
+        
+      ];
+      var imgs = new Array();
+      for (var i = 0; i < files.length; i++) {
+        imgs[i] = new Image(); // 메모리에 이미지 객체 생성
+        imgs[i].src = files[i]; // 이미지 로딩
+      }
+
+      // 다음 이미지 출력
+      var next = 1;
+      function change(img) {
+        img.src = imgs[next].src; // 이미지 변경
+        var nameSplit = files[next].split('/');
+        var nameText = document.getElementById("name");
+        var sizeText = document.getElementById("size");
+        nameText.innerHTML = "이미지 이름: " + nameSplit[1];
+        sizeText.innerHTML = "폭: " + img.width + " 높이: " + img.height;
+        next++; // 다음 이미지
+        next %= imgs.length; // 개수를 넘으면 처음으로
+      }
+      function init(img){
+        var nameSplit = files[next-1].split('/');
+        var nameText = document.getElementById("name");
+        var sizeText = document.getElementById("size");
+        img.src = files[next-1];
+        nameText.innerHTML = "이미지 이름: " +nameSplit[1];
+        sizeText.innerHTML = "폭: "+ img.width +" 높이: " + img.height;
+      }
+    </script>
+  </head>
+
+  <body>
+    <!-- 문서의 본문 텍스트, 이미지, 테이블, 자바스크립트 코드, 동영상 등 -->
+    <h3 class="LJHHM18">내가 좋아하는 동물 5가지</h3>
+    <hr />
+    이미지를 클릭하면 다음 이미지와 정보를 보여줍니다.
+    <p>
+            <img
+            style="border:20px ridge rgb(154, 248, 131)"
+            src="media/원숭이.png"
+            alt="."
+            width=""
+            height=""
+            onclick="change(this)"
+            onload="init(this)"             
+          />
+		  
+          <p id="name"></p>
+          <p id="size"></p>
+      
+      
+    </p>
+  </body>
+</html>
