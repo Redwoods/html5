@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<!-- 이 부분은 주석문입니다. 웹 브라우저는 주석을 화면에 출력하지 않습니다. -->
+<html>
+	<head>
+		<!-- 문서제목, 자바스크립트 코드, CSS 스타일 정의, 메타데이터정의 -->
+		<meta charset="utf-8">
+		<title>hmnn : Javascript</title>
+		<style>
+		</style>
+
+	
+	</head>
+
+	<body>
+		<!-- 문서의 본문 텍스트, 이미지, 테이블, 자바스크립트 코드, 동영상 등 -->
+		<h3>대입 연산</h3>
+		<hr>
+		<script>
+			var x=3, y=3, z=3;
+            x=x++;
+			document.write("x=" + x++ + ", y=" + y);
+			document.write(", z=" + z + "<br><br>");
+			
+			x += 3; // x=x+3 -> x=6
+			y *= 3; // y=y*3 -> y=9
+			z %= 2; // z=z%2 -> z=1
+			
+			document.write("x += 3; 실행 후, x=" + x + "<br>");
+			document.write("y *= 3; 실행 후, y=" + y + "<br>");
+			document.write("z %= 2; 실행 후, z=" + z);
+		</script>
+
+	</body>
+
+</html>
+
