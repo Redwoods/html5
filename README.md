@@ -27,7 +27,7 @@
 - [HM19	]
 - [HM20	]
 - [HM21	]
-- [HM22	](https://github.com/honggs/hm20) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm20/hm20_rpt01.html)@ * * [prj2](http://chaos.inje.ac.kr:3030/hm/project2/hm20/hm20_rpt02.html)@@ @ * @ @ @ [prj3](http://chaos.inje.ac.kr:3030/hm/project3/hm20/hm20_rpt03.html) @@@
+- [HM22 Hong](https://github.com/honggs/hm20) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm20/hm20_rpt01.html)@ * * [prj2](http://chaos.inje.ac.kr:3030/hm/project2/hm20/hm20_rpt02.html)@@ @ * @ @ @ [prj3](http://chaos.inje.ac.kr:3030/hm/project3/hm20/hm20_rpt03.html) @@@
 ***
 ## VSCode 확장 설치 안내 
 
