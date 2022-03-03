@@ -21,9 +21,9 @@
 - [HM13	이승준](https://github.com/q1w2e3r4god/HM13)
 - [HM14	이재하](https://github.com/wogk0012/hm14)
 - [HM15	이준희](https://github.com/LJunHee/HM15)
-- [HM16	이현준]
+- [HM16	이현준](https://github.com/junlee00/HM16)
 - [HM17	임태형](https://github.com/vmvvmvvmv/HM17)
-- [HM18	정동현]
+- [HM18	정동현](https://github.com/hm18donghyun/HM18)
 - [HM19	정희서](https://github.com/HiSeoJeong/HM19)
 - [HM20	김동영](https://github.com/badaral/HM20)
 - [HM21	정희철](https://github.com/JeongHC/hm21)
