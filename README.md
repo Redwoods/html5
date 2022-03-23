@@ -17,17 +17,17 @@
 - [HM09	박세훈](https://github.com/uooyas/hm09) @
 - [HM10	박신영](https://github.com/zachpaul7/HM10) @
 - [HM11	박제홍](https://github.com/qkrwpghd27/HM11) @
-- [HM12	이승무](https://github.com/seungmoo2901/HM12) 
-- [HM13	이승준](https://github.com/q1w2e3r4god/HM13)
-- [HM14	이재하](https://github.com/wogk0012/hm14)
-- [HM15	이준희](https://github.com/LJunHee/HM15)
-- [HM16	이현준](https://github.com/junlee00/HM16)
-- [HM17	임태형](https://github.com/vmvvmvvmv/HM17)
-- [HM18	정동현](https://github.com/hm18donghyun/HM18)
-- [HM19	정희서](https://github.com/HiSeoJeong/HM19)
-- [HM20	김동영](https://github.com/badaral/HM20)
-- [HM21	정희철](https://github.com/JengHC/hm21)
-- [HM22 조동현](https://github.com/Jodonghyun/HM22)
+- [HM12	이승무](https://github.com/seungmoo2901/HM12) @
+- [HM13	이승준](https://github.com/q1w2e3r4god/HM13) @
+- [HM14	이재하](https://github.com/wogk0012/hm14) @
+- [HM15	이준희](https://github.com/LJunHee/HM15) @
+- [HM16	이현준](https://github.com/junlee00/HM16) @
+- [HM17	임태형](https://github.com/vmvvmvvmv/HM17) @
+- [HM18	정동현](https://github.com/hm18donghyun/HM18) @/2
+- [HM19	정희서](https://github.com/HiSeoJeong/HM19) @
+- [HM20	김동영](https://github.com/badaral/HM20) &
+- [HM21	정희철](https://github.com/JengHC/hm21) @
+- [HM22 조동현](https://github.com/Jodonghyun/HM22) @
 - [HM77 HongGD](https://github.com/honggd/hm20) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm20/hm20_rpt01.html)@ * * [prj2](http://chaos.inje.ac.kr:3030/hm/project2/hm20/hm20_rpt02.html)@@ @ * @ @ @ [prj3](http://chaos.inje.ac.kr:3030/hm/project3/hm20/hm20_rpt03.html) @@@
 ***
 ## VSCode 확장 설치 안내 
