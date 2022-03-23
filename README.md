@@ -6,18 +6,18 @@
 - '*' : 과제 제출 
 - '&' : 과제 미제출 
 ***
-- [HM01	김정헌](https://github.com/jhkedwardkim/HM01)
-- [HM02	오세현](https://github.com/Ohsaehyeon/hm02)
-- [HM03	김기덕](https://github.com/DDUCKI/hm03)
-- [HM04	강대진](https://github.com/ijdaejin/HM04)
-- [HM05	김성우](https://github.com/Gukdoli/HM05)
-- [HM06	김창연](https://github.com/ckddus/HM06)
-- [HM07	김창욱](https://github.com/HM0007/hm07)
-- [HM08	김태화](https://github.com/TAaHwa/HM08)
-- [HM09	박세훈](https://github.com/uooyas/hm09)
-- [HM10	박신영](https://github.com/zachpaul7/HM10)
-- [HM11	박제홍](https://github.com/qkrwpghd27/HM11)
-- [HM12	이승무](https://github.com/seungmoo2901/HM12)
+- [HM01	김정헌](https://github.com/jhkedwardkim/HM01) @
+- [HM02	오세현](https://github.com/Ohsaehyeon/hm02) *
+- [HM03	김기덕](https://github.com/DDUCKI/hm03) @
+- [HM04	강대진](https://github.com/ijdaejin/HM04) @
+- [HM05	김성우](https://github.com/Gukdoli/HM05) @
+- [HM06	김창연](https://github.com/ckddus/HM06) @
+- [HM07	김창욱](https://github.com/HM0007/hm07) @
+- [HM08	김태화](https://github.com/TAaHwa/HM08) *
+- [HM09	박세훈](https://github.com/uooyas/hm09) @
+- [HM10	박신영](https://github.com/zachpaul7/HM10) @
+- [HM11	박제홍](https://github.com/qkrwpghd27/HM11) @
+- [HM12	이승무](https://github.com/seungmoo2901/HM12) 
 - [HM13	이승준](https://github.com/q1w2e3r4god/HM13)
 - [HM14	이재하](https://github.com/wogk0012/hm14)
 - [HM15	이준희](https://github.com/LJunHee/HM15)
