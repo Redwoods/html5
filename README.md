@@ -6,7 +6,7 @@
 - '*' : 과제 제출 
 - '#' : 과제 미제출 
 ***
-- [HM01	김정헌](https://github.com/jhkedwardkim/HM01) @
+- [HM01	김정헌](https://github.com/jhkedwardkim/HM01) @ [prj1](http://chaos.inje.ac.kr:3030/hm/prj1/hm01/hm01_rpt01/hm01_rpt01.html)
 - [HM02	오세현](https://github.com/Ohsaehyeon/hm02) *
 - [HM03	김기덕](https://github.com/DDUCKI/hm03) @
 - [HM04	강대진](https://github.com/ijdaejin/HM04) @
