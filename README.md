@@ -25,7 +25,7 @@
 - [HM17	임태형](https://github.com/vmvvmvvmv/HM17) @
 - [HM18	정동현](https://github.com/hm18donghyun/HM18) @/2
 - [HM19	정희서](https://github.com/HiSeoJeong/HM19) @
-- [HM20	김동영](https://github.com/badaral/HM20) #
+- [HM20	김동영](https://github.com/badaral/HM20) # [prj1]()#
 - [HM21	정희철](https://github.com/JengHC/hm21) @
 - [HM22 조동현](https://github.com/Jodonghyun/HM22) @
 - [HM77 HongGD](https://github.com/honggd/hm20) * * [prj1](http://chaos.inje.ac.kr:3030/hm/project/hm20/hm20_rpt01.html)@ * * [prj2](http://chaos.inje.ac.kr:3030/hm/project2/hm20/hm20_rpt02.html)@@ @ * @ @ @ [prj3](http://chaos.inje.ac.kr:3030/hm/project3/hm20/hm20_rpt03.html) @@@
