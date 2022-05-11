@@ -9,7 +9,7 @@
 - [HM01	김정헌](https://github.com/jhkedwardkim/HM01) @ [prj1](http://chaos.inje.ac.kr:3030/hm/prj1/hm01/hm01_rpt01/hm01_rpt01.html) * * * [prj2](http://chaos.inje.ac.kr:3030/hm/prj2/hm01/hm01_rpt02/hm01_rpt02.html) @@/2 *
 - [HM02	오세현](https://github.com/Ohsaehyeon/hm02) * [prj1](http://chaos.inje.ac.kr:3030/hm/prj1/hm02/hm02_rpt01/hm02_rpt01.html) * * * [prj2](http://chaos.inje.ac.kr:3030/hm/prj2/hm02/hm02_rpt02/hm02_rpt02.html) # *
 - [HM03	김기덕](https://github.com/DDUCKI/hm03) @ [prj1](http://chaos.inje.ac.kr:3030/hm/prj1/hm03/hm03_rpt01/hm03_rpt01.html) * # # [prj2](http://chaos.inje.ac.kr:3030/hm/prj2/hm03/hm03_rpt02/hm03_rpt02.html) # #
-- [HM04	강대진](https://github.com/ijdaejin/HM04) @ [prj1](http://chaos.inje.ac.kr:3030/hm/prj1/hm04/hm04_rpt01/hm04_rpt01.html) @ * * [prj2](http://chaos.inje.ac.kr:3030/hm/prj2/hm04/hm04_rpt02/hm04_rpt02.html) @@ *
+- [HM04	강대진](https://github.com/ijdaejin/HM04) @ [prj1](http://chaos.inje.ac.kr:3030/hm/prj1/hm04/hm04_rpt01/hm04_rpt01.html) @ * * [prj2](http://chaos.inje.ac.kr:3030/hm/prj2/hm04/hm04_rpt02/hm04_rpt02.html) @@ */2
 - [HM05	김성우](https://github.com/Gukdoli/HM05) @ [prj1](http://chaos.inje.ac.kr:3030/hm/prj1/hm05/hm05_rpt01/hm05_rpt01.html) @ * * [prj2](http://chaos.inje.ac.kr:3030/hm/prj2/hm05/hm05_rpt02/hm05_rpt02.html) @@@/2 *
 - [HM06	김창연](https://github.com/ckddus/HM06) @ [prj1](http://chaos.inje.ac.kr:3030/hm/prj1/hm06/hm06_rpt01/hm06_rpt01.html) @@ * * [prj2](http://chaos.inje.ac.kr:3030/hm/prj2/hm06/hm06_rpt02/hm06_rpt02.html) @@@/2 *
 - [HM07	김창욱](https://github.com/HM0007/hm07) @ [prj1](http://chaos.inje.ac.kr:3030/hm/prj1/hm07/hm07_rpt01/hm07_rpt01.html) @ * * [prj2](http://chaos.inje.ac.kr:3030/hm/prj2/hm07/hm07_rpt02/hm07_rpt02.html) @@/2 *
@@ -19,7 +19,7 @@
 - [HM11	박제홍](https://github.com/qkrwpghd27/HM11) @ [prj1](http://chaos.inje.ac.kr:3030/hm/prj1/hm11/hm11_rpt01/hm11_rpt01.html) @/2 * * [prj2](http://chaos.inje.ac.kr:3030/hm/prj2/hm11/hm11_rpt02/hm11_rpt02.html) @@ #
 - [HM12	이승무](https://github.com/seungmoo2901/HM12) @ [prj1](http://chaos.inje.ac.kr:3030/hm/prj1/hm12/hm12_rpt01/hm12_rpt01.html) * * * [prj2](http://chaos.inje.ac.kr:3030/hm/prj2/hm12/hm12_rpt02/hm12_rpt02.html) @@@/2 *
 - [HM13	이승준](https://github.com/q1w2e3r4god/HM13) @ [prj1](http://chaos.inje.ac.kr:3030/hm/prj1/hm13/hm13_rpt01/hm13_rpt01.html) @ * * [prj2](http://chaos.inje.ac.kr:3030/hm/prj2/hm13/hm13_rpt02/hm13_rpt02.html) @@@/2 *
-- [HM14	이재하](https://github.com/wogk0012/hm14) @ [prj1](http://chaos.inje.ac.kr:3030/hm/prj1/hm14/hm14_rpt01/hm14_rpt01.html) @@ * * [prj2](http://chaos.inje.ac.kr:3030/hm/prj2/hm14/hm14_rpt02/hm14_rpt02.html) @@@/2 *
+- [HM14	이재하](https://github.com/wogk0012/hm14) @ [prj1](http://chaos.inje.ac.kr:3030/hm/prj1/hm14/hm14_rpt01/hm14_rpt01.html) @@ * * [prj2](http://chaos.inje.ac.kr:3030/hm/prj2/hm14/hm14_rpt02/hm14_rpt02.html) @@@/2 */2
 - [HM15	이준희](https://github.com/LJunHee/HM15) @ [prj1](http://chaos.inje.ac.kr:3030/hm/prj1/hm15/hm15_rpt01/hm15_rpt01.html) @/2 * * [prj2](http://chaos.inje.ac.kr:3030/hm/prj2/hm15/hm15_rpt02/hm15_rpt02.html) @@ *
 - [HM16	이현준](https://github.com/junlee00/HM16) @ [prj1](http://chaos.inje.ac.kr:3030/hm/prj1/hm16/hm16_rpt01/hm16_rpt01.html) @ * * [prj2](http://chaos.inje.ac.kr:3030/hm/prj2/hm16/hm16_rpt02/hm16_rpt02.html) @@@ *
 - [HM17	임태형](https://github.com/vmvvmvvmv/HM17) @ [prj1](http://chaos.inje.ac.kr:3030/hm/prj1/hm17/hm17_rpt01/hm17_rpt01.html) @/2 * * [prj2](http://chaos.inje.ac.kr:3030/hm/prj2/hm17/hm17_rpt02/hm17_rpt02.html) @@@/2 *
