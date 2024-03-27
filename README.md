@@ -1,4 +1,4 @@
-# html5 (2022, 1학기)
+# html5 
 ## html, css3, javascript
 ---
 ## 과제 평가 및 project 1,2,3
